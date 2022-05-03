@@ -1,0 +1,9 @@
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\bin\Debug\MVCExample.exe
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\bin\Debug\MVCExample.pdb
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\obj\Debug\MVCExample.csproj.AssemblyReference.cache
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\obj\Debug\MVCExample.frmCalcView.resources
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\obj\Debug\MVCExample.Properties.Resources.resources
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\obj\Debug\MVCExample.csproj.GenerateResource.cache
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\obj\Debug\MVCExample.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\obj\Debug\MVCExample.exe
+C:\Users\Huynh Nhan\Downloads\MVCExample\MVCExample\MVCExample\obj\Debug\MVCExample.pdb
